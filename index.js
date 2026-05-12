@@ -21,3 +21,6 @@ player.addListener({
     }
   },
 });
+
+
+log.console("Token", player.token);
